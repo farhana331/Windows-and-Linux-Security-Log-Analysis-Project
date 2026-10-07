@@ -1,0 +1,4 @@
+Oct 07 10:00:01 server1 sshd[1001]: Failed password for invalid user admin from 192.168.1.105
+Oct 07 10:02:15 server1 sshd[1002]: Accepted password for user student from 192.168.1.50
+Oct 07 10:05:22 server1 sshd[1003]: Failed password for invalid user root from 10.0.0.12
+Oct 07 10:08:40 server1 sshd[1004]: Failed password for user user1 from 192.168.1.105
